@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "435245358638",
+    "firebase_url": "https://core3app-fa19d.firebaseio.com",
+    "project_id": "core3app-fa19d",
+    "storage_bucket": "core3app-fa19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435245358638:android:93645d05fefb1fd5",
+        "android_client_info": {
+          "package_name": "com.buszko.core3app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435245358638-q4emr55odk5po78f0vnb1jc27b7ic8pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCczrp2s9rWVG1-K3nb7_BDsTVeeRYNTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
